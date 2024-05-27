@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/other-diseases-causing-hypoglycemia---primary.py
+inputModule3:
+  class: File
+  path: python/corticoadrenal-diseases-causing-hypoglycemia---primary.py
+inputModule4:
+  class: File
+  path: python/diseases-causing-hypoglycemia-related---primary.py
+inputModule5:
+  class: File
+  path: python/intestinal-diseases-causing-hypoglycemia---primary.py
+inputModule6:
+  class: File
+  path: python/diseases-causing-hypoglycemia-manifestation---primary.py
+inputModule7:
+  class: File
+  path: python/diseases-causing-hypoglycemia-hypopituitarism---primary.py
+inputModule8:
+  class: File
+  path: python/mpituitary-diseases-causing-hypoglycemia---primary.py
+inputModule9:
+  class: File
+  path: python/diseases-causing-hypoglycemia-minsulinoma---primary.py
+inputModule10:
+  class: File
+  path: python/diseases-causing-hypoglycemia-fibrosis---primary.py
+inputModule11:
+  class: File
+  path: python/diseases-causing-hypoglycemia-meconium---primary.py
+inputModule12:
+  class: File
+  path: python/mpancreatic-diseases-causing-hypoglycemia---primary.py
+inputModule13:
+  class: File
+  path: python/diseases-causing-hypoglycemia-pancreatitis---primary.py
+inputModule14:
+  class: File
+  path: python/diseases-causing-hypoglycemia-addisons---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
